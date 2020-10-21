@@ -1,0 +1,39 @@
+/*div{
+    height: 120px;
+    width: 50%;
+    padding: 30px;
+    background-color: whitesmoke;
+    margin: 20px;
+    border: 10px solid gold;
+    display: inline-block;
+}
+
+div{
+    height: 100px;
+    width: 30%;
+    padding: 30px;
+    background-color: whitesmoke;
+    margin: 50px;
+    border: 10px solid gold;
+    display: flex;
+}
+div{
+    height: 100px;
+    width: 30%;
+    padding: 30px;
+    background-color: whitesmoke;
+    margin: 50px;
+    border: 10px dotted gray;
+    display: table-footer-group;
+}
+*/
+div{
+    height: 100px;
+    width: 30%;
+    padding: 30px;
+    background-color: whitesmoke;
+    margin: 50px;
+    border: 10px dotted gray;
+    display: ruby-base-container;
+}
+
